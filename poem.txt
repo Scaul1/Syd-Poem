@@ -1,2 +1,6 @@
-blahblah
+Violets are red
+Roses are blue
+Computer science is fun
+And github too!
+
 by Sydney Caulfeild
