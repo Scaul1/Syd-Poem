@@ -1,6 +1,7 @@
-Violets are red
-Roses are blue
-Computer science is fun
-And github too!
+ComSci- A Haiku
+
+Computer science 
+Is very fun and awesome
+I like it a lot
 
 by Sydney Caulfeild
